@@ -5,7 +5,7 @@ To install the Snyk Extension into VS Code, follow these steps:
     - Navigate to the [releases page on GitHub](https://github.com/snyk-ps/vscode-extension-custom/releases).
     - Download the latest release.
 
-2. **Install the Extension in Visual Studio Code**:
+2. **Install the Extension in VS Code**:
     - Open VS Code.
     - Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
     - Click on the ellipsis (`...`) in the top-right corner of the Extensions view.
